@@ -1,6 +1,6 @@
 {
   "name": "joi-browser-validation-strategy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Joi validation strategy for react-validation-mixin",
   "main": "./lib/joiValidationStrategy.js",
   "files": [
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jurassix/joi-validation-strategy.git"
+    "url": "https://github.com/clarkeandrew/joi-validation-strategy.git"
   },
   "keywords": [
     "joi",
